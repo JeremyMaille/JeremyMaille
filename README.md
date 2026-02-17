@@ -11,6 +11,9 @@
 
 ## Tech stack
 Python · PyTorch · Pandas · scikit-learn · SQL · Docker · .NET · 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## Contact
 LinkedIn: [(link)](https://www.linkedin.com/in/jeremy-maille-3202912a7/)
