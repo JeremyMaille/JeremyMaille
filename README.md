@@ -23,5 +23,5 @@
 
 
 ## Contact
-LinkedIn: [(link)](https://www.linkedin.com/in/jeremy-maille-3202912a7/)
-Email: [(email)](j.maille27370@gmail.com)
+- LinkedIn: [(link)](https://www.linkedin.com/in/jeremy-maille-3202912a7/)
+- Email: j.maille27370@gmail.com
