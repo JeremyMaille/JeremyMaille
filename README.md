@@ -10,7 +10,14 @@
 - 🎮 Reinforcement learning AI playing pacman
 
 ## Tech stack
-![Python](https://img.shields.io/badge/Python-3.11-blue) · PyTorch · Pandas · scikit-learn · SQL · Docker · .NET · 
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-003B57?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-Backend-512BD4?logo=dotnet&logoColor=white)
+
 
 
 
