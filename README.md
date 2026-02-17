@@ -10,13 +10,14 @@
 - 🎮 Reinforcement learning AI playing pacman
 
 ## Tech stack
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-003B57?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-Backend-512BD4?logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?logo=pytorch)
+![Pandas](https://img.shields.io/badge/Pandas-Data-blueviolet?logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn)
+![SQL](https://img.shields.io/badge/SQL-Relational-darkgreen?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker)
+![.NET](https://img.shields.io/badge/.NET-Enterprise-purple?logo=dotnet)
+
 
 
 
