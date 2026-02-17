@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jérémy 👋
 
-<!--
-**JeremyMaille/JeremyMaille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student (AI / Data / Machine Learning)  
+🔭 Currently working on: IoT + Edge AI projects, Natural Langage Processing , Machine Learning   
 
-Here are some ideas to get you started:
+## Featured projects
+- 🚗 Smart Parking POC (Edge AI + realtime map)
+- 🧠 NLP / Transformers projects
+- 🐭 Mouse behavioral prediction model
+- 🎮 Reinforcement learning AI playing pacman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+Python · PyTorch · Pandas · scikit-learn · SQL · Docker · .NET · 
+
+## Contact
+LinkedIn: [(link)](https://www.linkedin.com/in/jeremy-maille-3202912a7/)
+Email: [(email)](j.maille27370@gmail.com)
