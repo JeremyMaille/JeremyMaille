@@ -4,8 +4,9 @@
 
 **Machine Learning Engineer in training | AI & Data Specialization**
 
-*Final-year engineering student at CESI École d'Ingénieurs*
+*Final-year engineering student at CESI École d'Ingénieurs 
 
+🎯 Seeking an **apprenticeship (Sept 2026)** or a **6-month final internship (Jan 2027)** in ML/AI. Open to relocation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-maille-3202912a7)
 [![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.maille27370@gmail.com)
@@ -23,10 +24,10 @@ I design and ship **end-to-end ML systems**: data pipelines, model training, eva
 | Project | What it does | Stack | Results |
 |---------|--------------|-------|---------|
 | 🛰️ **[Urban Change Detection](https://github.com/JeremyMaille/urban-change-detection)** | Siamese U-Net (ResNet34 encoder) detecting building changes between two satellite images, with a live demo | PyTorch, TorchGeo, Gradio | **F1 0.536 on LEVIR-CD+** (+464% vs non-ML baseline) · [Live demo 🤗](https://huggingface.co/spaces/JeremyMaille/urban-change-detection-interface) |
-| ✈️ **[Flight Trajectory Prediction](lien-repo)** | Transformer-based model predicting aircraft trajectories, served via REST API | PyTorch, Transformers, FastAPI, Docker | Deployed inference API |
-| ⚙️ **[Predictive Maintenance / RUL](lien-repo)** | CNN-LSTM hybrid predicting Remaining Useful Life of turbofan engines | PyTorch, NASA C-MAPSS | **RMSE 37.74 cycles** + scientific poster |
+| ✈️ **[Flight Trajectory Prediction](https://github.com/JeremyMaille/flight-trajectory-prediction)** | Transformer-based model predicting aircraft trajectories, served via REST API | PyTorch, Transformers, FastAPI, Docker | Deployed inference API |
+| ⚙️ **[Predictive Maintenance / RUL](https://colab.research.google.com/drive/1dU7XyQI-F_wkTI6JNiQr5QMMZCgvKyoe?usp=sharing)** | CNN-LSTM hybrid predicting Remaining Useful Life of turbofan engines | PyTorch, NASA C-MAPSS | **RMSE 37.74 cycles** + scientific poster |
 | 🧠 **[Mouse Behavior ML Baselines](https://github.com/mathilde-ly/mouse-behavior-ml-baselines)** | Full supervised-learning pipeline for behavioral analysis, research @ CERVO Brain Research Centre | Python, scikit-learn, CV | Academic research project |
-| 🎓 **[NovaCampus RAG Assistant](lien-repo)** | Retrieval-Augmented Generation assistant inside a microservices academic ERP | Qdrant, NestJS, LLM APIs, Docker | 5-layer microservices architecture |
+| 🎓 **[NovaCampus RAG Assistant](https://github.com/PROJETWEB-CESI/Project-Web-Group1)** | Retrieval-Augmented Generation assistant inside a microservices academic ERP | Qdrant, NestJS, LLM APIs, Docker | 5-layer microservices architecture |
 | 🕹️ **[RL Pacman Agent](https://github.com/JeremyMaille/Reinforcement-Learning-Pacman)** | Reinforcement learning agent trained to play Pacman | Python, RL | Learning project |
 
 ## 🛠️ Tech Stack
@@ -49,18 +50,9 @@ I design and ship **end-to-end ML systems**: data pipelines, model training, eva
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JeremyMaille&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyMaille&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🎓 Background
 
-- **M.Eng in Computer Science, AI & Data specialization**, CESI École d'Ingénieurs *(2026)*
+- **Master's degree in Computer Science, AI & Data specialization**, CESI École d'Ingénieurs *(2026)*
 - **Research experience in Computer Vision**, CERVO Brain Research Centre, Université Laval, Québec 🇨🇦
 - Previous internships in **software engineering** and **cybersecurity**
 
@@ -68,6 +60,6 @@ I design and ship **end-to-end ML systems**: data pipelines, model training, eva
 
 <div align="center">
 
-*💬 Open to discussing ML engineering, MLOps, or opportunities. Reach out anytime.*
+*💬 Open to discussing ML engineering, MLOps, or research opportunities. Reach out anytime.*
 
 </div>
