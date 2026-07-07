@@ -6,7 +6,6 @@
 
 *Final-year engineering student at CESI École d'Ingénieurs* 
 
-🎯 Seeking an **apprenticeship (Sept 2026)** or a **6-month final internship (Jan 2027)** in ML/AI. Open to relocation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-maille-3202912a7)
 [![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.maille27370@gmail.com)
