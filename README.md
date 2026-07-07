@@ -4,7 +4,7 @@
 
 **Machine Learning Engineer in training | AI & Data Specialization**
 
-*Final-year engineering student (M.Eng) @ CESI École d'Ingénieurs*
+*Final-year engineering student at CESI École d'Ingénieurs*
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-maille-3202912a7)
