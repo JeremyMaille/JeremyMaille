@@ -4,7 +4,7 @@
 
 **Machine Learning Engineer in training | AI & Data Specialization**
 
-*Final-year engineering student at CESI École d'Ingénieurs 
+*Final-year engineering student at CESI École d'Ingénieurs* 
 
 🎯 Seeking an **apprenticeship (Sept 2026)** or a **6-month final internship (Jan 2027)** in ML/AI. Open to relocation.
 
